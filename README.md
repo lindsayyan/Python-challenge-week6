@@ -1,6 +1,6 @@
 # Python-challenge-week6
 
- Visualizing the relationship between Latitude and Temperature, humidity and Cloudiness leveraging openweather API 
+ Visualizing the relationship between Latitude and Temperature, Humidity and Cloudiness leveraging openweather API 
 
  There are 2 additional files for this homework 
  1. config.py stores the API key for the openweather API
